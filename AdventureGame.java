@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Launa Buche-Austin
+ * This program will act like a 'choose your own adventure' game
+ * March 09 2019
  */
 
 package adventure.game;
